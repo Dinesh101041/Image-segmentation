@@ -40,3 +40,4 @@
 
     also yo can add Gaussian blur fuction is used to transform each pixel in the image and smoothing the image
 
+This is practice on learning opencv
